@@ -1,5 +1,5 @@
 # how-we-did-written-online-exams
-created 2021-03-05 by Stefan Harmeling
+created and copyright 2021-03-05 by Stefan Harmeling
 
 In the following we describe our setup and lessons-learned from our two online exams for lecture "Machine Learning" (2021-02-17, about 80 students) and lecture "Programmierung" (2021-02-22, about 350 students).
 
