@@ -6,7 +6,9 @@ In the following we describe our setup and lessons-learned from our two online e
 ## Conclusion (TLDR)
 * interesting experiment!
 * for Corona times ok
-* in presence exams are always better since cheating via communication channels can not be avoided
+* in presence exams are better since
+* cheating via communication channels can not be avoided
+* possible idea for future offline exams: let the student at the end scan their exam to submit the paper version alongside a PDF version to simplify correction and Klausuridea
 
 ## Tools:
 * Zoom: for video conference during the exam
